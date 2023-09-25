@@ -1,0 +1,15 @@
+h1{
+    color: #2c3e50;
+}
+
+.layr{
+    cursor: pointer;
+    background-color: #1abc9c;
+    opacity: 0; 
+    transition: opacity 0.8s;
+}
+
+
+.layr:hover{
+    opacity: 0.9;
+}
